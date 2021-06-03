@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief treatise conteyning some grounds and reasons, against two errours of the Anabaptists 1. The one, concerning baptisme of infants. 2. The other, concerning anabaptisme of elder people. By Francis Iohnson, pastor of the exiled English Church at Amsterdam.</title>
+            <author>Johnson, Francis, 1562-1618.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04538</idno><idno type="EEBO-CITATION">99854644</idno>
+  <idno type="VID">20074</idno>
+  <idno type="EEBO-PROQUEST">2240912989</idno>
+  <idno type="STC">STC 14659</idno>
+  <idno type="STC">ESTC S119437</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854644e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1384:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief treatise conteyning some grounds and reasons, against two errours of the Anabaptists 1. The one, concerning baptisme of infants. 2. The other, concerning anabaptisme of elder people. By Francis Iohnson, pastor of the exiled English Church at Amsterdam.</title>
+                  <author>Johnson, Francis, 1562-1618.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>G. Thorp?],</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>Printed in the yeare of our Lord, 1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested place of publication and printer's name from STC.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Reformed Church --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Baptism --  Early works to 1800.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20074:1"/>
+            <pb facs="tcp:20074:1"/>
+            <p>A BRIEF TREATISE conteyning some grounds and reasons, against two errours of the Anabaptists:
+<list>
+                  <item>1. <hi>The one, concerning baptisme of infants.</hi>
+                  </item>
+                  <item>2. <hi>The other, concerning anaba<g ref="char:EOLhyphen"/>ptisme of elder people.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By Francis Iohnson, Pastor of the exiled English Church at Amsterdam.</p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 11.</hi>19.</bibl>
+               <p>There must even heresies be among you, that they which are approved may be made apparant among you.</p>
+            </q>
+            <p>Printed In the yeare of our Lord, 1609.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:20074:2"/>
+            <pb n="3" facs="tcp:20074:2"/>
+            <head>To the Reader.</head>
+            <p>AMong the many trials and troubles of the Churches of Christ, it is one of the greatest, when schismes and heresies arise among themselves. All other opposition and persecution of any adversaries without, is litle or nothing vnto it: neyther bringing such hinderance to the truth, nor being so heavie to the Church. But thus wil the Lord exer<g ref="char:EOLhyphen"/>cise his people, and accomplish his owne work. And this have the Apostles foretolde, that it should be the case and estate of the Church, here on earth. <hi>Act. 20.28.29.30. 1 Cor. 11.18.19. 2 Pet. 2.1. 1 Ioh. 2.18, 19.</hi>
+            </p>
+            <p>Of which cōmune lot and woonted con<g ref="char:EOLhyphen"/>dition of the CHƲRCH, wee for our part have had our portion and experience, many times and sundry wayes: And now of late (as sometimes also heretofore) by that which hath fallen out among vs, in such as have for<g ref="char:EOLhyphen"/>saken the truth of Christ, and are seduced with the errour of the Anabaptists. A case woful and lamentable, in many respects: yet such as the Lord (I trust) who work<g ref="char:EOLhyphen"/>eth all thinges for the best to them that love him, will turn to great good, both for the truth it self, in the further clearing of it; &amp; for the Churches of Christ, in the more freing of
+<pb n="4" facs="tcp:20074:3"/> vs from the imputation of Anabaptistry, which hath most vniustly been laid vpon vs. And for a beginnning, behold the late A<g ref="char:EOLhyphen"/>nabaptists thēselves have now published some writings: which already cleare vs and the truth witnessed by vs, and are like to cause further manifestation of these &amp; other things by divers of vs.</p>
+            <p>Wherefore (leaving the answer of the bookes which they have set forth, to such as are specially interessed and imployed there<g ref="char:EOLhyphen"/>in) I have thought good now to publish this treatise following: wherein are conteyned some grounds and reasons, written heretofore, a<g ref="char:EOLhyphen"/>gainst their errours about Baptisme. Where<g ref="char:EOLhyphen"/>vnto if he that challengeth all, shall make answer directly to the reasons and confirmati<g ref="char:EOLhyphen"/>ons here set downe, I shall have occasion (as others already have) to write further and more particularly hereof, and by the assi<g ref="char:EOLhyphen"/>stance of God, to mainteyne this saith once given to the Saints, against any opposition or delusion he can bring thereabout.</p>
+            <p>In the meane tyme, let one poynt con<g ref="char:EOLhyphen"/>cerning them be well observed, which them<g ref="char:EOLhyphen"/>selves in their writings make manifest y<g ref="char:EOLhyphen"/>nough
+<pb n="5" facs="tcp:20074:3"/> to the iudicious and indifferent Rea<g ref="char:EOLhyphen"/>der: namely, that the grounds and assertions of their opinions are such, as pervert the Gospel of Jesus Christ; bereave the Church of the grace and favours of God to young and old; take away the comfort of Christian fa<g ref="char:EOLhyphen"/>milies; deprive kingdomes and cōmune wealthes of having Christian Kings Iudges and Magistrates (whatsoever they pretend to the cōtrary): &amp; do indeed very greatly im<g ref="char:EOLhyphen"/>peach the good of all estates, domestical, civil, and ecclesiasticall. The more straunge it is, that yet notwithstanding they would write and cary themselves in such sort as they do, not fearing to fil their mouthes and pens with falsehood and blasphemie; with perverting the Scriptures, and abusing the people of God; with reproaching, and challenging of all such as stand against their errours and heresies: as if he that set forth such writings and pro<g ref="char:EOLhyphen"/>claimed such challenges, would shew him<g ref="char:EOLhyphen"/>self to be another Goljath defying Israell, and provoking all to battel and combate.</p>
+            <p>Which things J wish they may lay to heart, and feare before the Lord,<note n="*" place="margin">
+                  <hi>Psal.</hi> 75.10.</note> who will cut off all the hornes of the wicked, and make the horns of the righteous to be exalted.
+<pb n="6" facs="tcp:20074:4"/> Examples whereof we have many, not onely in Goljath &amp; others throughout the Scrip<g ref="char:EOLhyphen"/>tures, but in heathen stories and records also. As may be seen for a memorable particu<g ref="char:EOLhyphen"/>lar, in that very <hi>Tyrant,</hi> with whose <hi>wish</hi> this adversary patternes his owne. Con<g ref="char:EOLhyphen"/>cerning whom<note n="*" place="margin">Dion Cassius, lib. 59. in historia Caij Cali<g ref="char:EOLhyphen"/>gulae.</note> it is recorded, that he reig<g ref="char:EOLhyphen"/>ned but a few yeres, and then was killed, and they which were present at his death, calling to minde how he had wished <hi>that all the people had but one neck,</hi> shewed him <hi>that himself had but one neck, &amp; they had many hands.</hi> For God resisteth the proud, &amp; giveth grace to the humble. <hi>Prov. 3.34. Iam. 4.5.6. 1 Pet. 5.5.</hi>
+            </p>
+            <p>Good therefore it were for these men, to consider their wayes in their hearts, to be low in their owne eyes, to humble themselues vnder the mighty hand of God, to turn their feet into the Lords testimonies which they have forsaken, and not to be caried about with everie wynd of doctrine by the deceipt of men, but to be more constant in the truth of Christ then hitherto they have bene. The consideratiō whereof I leave vnto themselves, and them vnto the Lord, who knoweth and will accomplish his owne work in all, to his owne glorie and praise in the end.</p>
+            <pb n="7" facs="tcp:20074:4"/>
+            <p>Now for the treatise ensuing, which is but short, and printed for thy use, Christian Reader, let me exhort thee to ponder the reasons alleadged with thy self, and to exa<g ref="char:EOLhyphen"/>mine them by the Scriptures: and the Lord give thee vnderstanding in all things. Christ alone is to all his, <hi>the way, the truth,</hi>
+               <note place="margin">Ioh. 14.6</note>
+               <hi>&amp; the life.</hi> The Lord stablish thee in the faith of his Gospell, that being rooted and built in him, with assurance that this is the true grace of God wherein we stand, thou mayest grow vp in grace and in the knowledg of our Lord and Saviour Iesus Christ, in whom the nations &amp; families of the earth are blessed, &amp; vnto whom be glorie both now and to the day of eternity. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="8" facs="tcp:20074:5"/>
+            <pb n="9" facs="tcp:20074:5"/>
+            <head>
+               <hi>SOME GROUNDS and reasons, shewing</hi> 1. That Baptisme is to be administred to infants, being the children of the faithful.</head>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>BEcause it is the commandement of God, to give the signe and seale of his covenant of grace to his people and their seed, in their infancy, throughout their generations. Which ordinance of the Lords hath never ben repealed, but abideth stablished vpon a certeyne and perpetuall ground, <hi>which is,</hi> his promise and covenant of grace made with the faithfull and their seed for ever. <hi>Gen. 17 7.12.13.14. Exod. 12.48.49. with Act. 2.38.39. and 3.25. and 16.31. Luk. 1.54.55.72, &amp;c. Rom. 4.11.16.17. and 15.8.9.10. Gal. 3.8.29. Esa. 54.10. Luk. 20.37.38. Heb. 11.13-16. and 13.8.20. Rev. 14.6.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>Because Christ hath confirmed the same, when he sent forth his Apostles &amp; appointed them to make all the na<g ref="char:EOLhyphen"/>tions disciples, &amp; to baptize them in<g ref="char:EOLhyphen"/>to the name of the Father the Sonn &amp; the holy Ghost. For, to make the
+<pb n="10" facs="tcp:20074:6"/> Gentiles disciples, is by the Gospel to bring them vnto the covenant of God made with Abrahā the Father of ma<g ref="char:EOLhyphen"/>ny nations, for salvation through the name of Iesus Christ. Which being a covenant everlasting and including the faithfull &amp; their seed, Baptisme (which did now succeed and seale it in stead of Circumcision) was therefore by this appointment of Christ to be admini<g ref="char:EOLhyphen"/>stred vnto all that should be brought and comprehended vnder that cove<g ref="char:EOLhyphen"/>nant of grace: and consequently both to such as were of yeares coming to the faith of Christ, and to their children being yet infants. And otherwise, the Gentiles should not with the Iewes be made coinheriters, and of the same body, and ioynt-partakers of the pro<g ref="char:EOLhyphen"/>mise of God in Christ, by the Gospel: as the Scripture teacheth, <hi>Mat. 28.18.19. and Mark 16.15.16. with Gal. 3.8-29. Gen. 12.3. and 17.4.5.7. Rom. 4.9-17, and 11.13-16. and 15.8-16. 2 Cor.</hi> 1.<hi>20. Esa. 42.6.7. and 49 6. Act. 13.46.47. Ioh. 10.16. 1 Cor. 1.9.13 and 12, 13. Ephe. 2.</hi>11-22. <hi>and 3.6.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <pb n="11" facs="tcp:20074:6"/>
+               <head>III.</head>
+               <p>Because it was the Apostles practise, at the publishing of the gospel through the world, to baptize both the house<g ref="char:EOLhyphen"/>holders themselves that beleeved, and their housholds also: Like as Abraham himself first beleved, and then was cir<g ref="char:EOLhyphen"/>cumcised; and all his familie with him: And as the stranger of the Gentiles, which received the faith of the Iewes, was circumcised likewise with all the males that were his. <hi>Act. 16.15.33. 1 Cor.</hi> 1.<hi>16. with Gen. 15.6. and 17.26.27. and 21.4. Exod. 12.48.49.</hi> And for the Scriptures speach of <hi>an house, family,</hi> or <hi>household,</hi> implying <hi>children</hi> also ther<g ref="char:EOLhyphen"/>in, see <hi>Gen. 30.30.</hi> &amp; <hi>45.18.19.</hi> with <hi>46.5.6.7. Num. 3.15.</hi> &amp;c. <hi>Psal. 115.12.13.14. 1 Tim. 5.8.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>IIII.</head>
+               <p>Because the children of beleevers are holy, and are Abrahams seed, and heires by promise of the kingdome of heaven and eternall blessednes. And who can then withold the baptisme of water frō them, to whom God vouch<g ref="char:EOLhyphen"/>safeth the baptisme of his spirit, &amp; the
+<pb n="12" facs="tcp:20074:7"/> blessing of Abraham to an inheritance everlasting in his heavenly kingdome? <hi>1 Cor. 7.14. Rom. 11.16. Act. 3.25. Gal. 3.29. Esa. 46.3.4. Psal. 22.10.30. &amp; 71.6. &amp; 115.12.13.14.15. Luk. 1.41.44. Act. 10.47. Rom. 8.9.16. Luk. 19.9. Mark 10.13-16.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>V</head>
+               <p>Because Baptisme is the Lords signe, of his washing away of our sinnes, re<g ref="char:EOLhyphen"/>ceiving of vs into the Church and in<g ref="char:EOLhyphen"/>corporating of vs into Christ, for sal<g ref="char:EOLhyphen"/>vation by his death and resurrection. Whereof the children of belevers are partakers, aswell as they which be of yeares: and therefore can no more be deprived of baptisme, then of remissiō of sinnes, entrance into the Church, ingraffing into Christ, and salvation by his meanes. Neyther is there any thing required in the ministration of baptis<g ref="char:EOLhyphen"/>me (nor was heretofore in circumci<g ref="char:EOLhyphen"/>siō) whereof young infāts are not capa<g ref="char:EOLhyphen"/>ble, aswell as elder people: whereas in the ministration of the Lords supper, all may see it to be otherwise. For in
+<pb n="13" facs="tcp:20074:7"/> baptisme, the Minister is<note n="†" place="margin">J speak of the out<g ref="char:EOLhyphen"/>ward agēt.</note> the agent alone, &amp; the person baptized (whether old or young) is onely a patient, &amp; not an agent: but in the Lords supper, besides the actions laid vpon the Mi<g ref="char:EOLhyphen"/>nister, there are also diverse actions re<g ref="char:EOLhyphen"/>quired of the receivers; as namely, to take, to eat, to drink, to do it in remem<g ref="char:EOLhyphen"/>brāce of Christ, to shew forth the Lords death, to examine themselves, &amp; so to eat of that bread &amp; drink of that cup. All which actions are required of the receivers of the Lords supper, whereby they also are made agents therein, and not the Ministers onely. But in baptisme it is not so: for in it, the actiō is wholy enjoyned and layd vpon the baptizer, and not vpon the baptized. So as even by the institution and admi<g ref="char:EOLhyphen"/>nistration of baptisme, compared with the institution and administration of the Lords supper, the truth of this point yet further is cleared and confir<g ref="char:EOLhyphen"/>med vnto vs, <hi>Rom. 6.3.4. and 5.14.15 Zach. 13.1. 1 Cor. 1.13-16. and 12.13 Act. 4.12. with 16.30.31.32.33.34 and 22.14.15.16. Gal. 3.27.28. Ephes. 2.19
+<pb n="14" facs="tcp:20074:8"/> &amp; 5, 25.26.27.29.30. Tit. 3, 4, 5, 6, 7. Rev.</hi> 1, <hi>4, 5. Mat. 28, 18, 19, with Mat. 26.26, 27, 28, and</hi> 1 <hi>Cor.</hi> 11.23-<hi>28.</hi>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <head>VI.</head>
+               <p>Because there is one Baptisme, as there is one body, and one Media<g ref="char:EOLhyphen"/>tor and confirmer of one covenaunt of grace, to the faithfull and their seed, in all ages. So as therefore one &amp; the same baptisme perteyneth to the children of the faithfull together with the parents themselves: as they are also of one and the same body with them, having one and the same Mediatour &amp; ratifyer of Gods covenant of grace vnto them, even Iesus Christ, the head &amp; Saviour of his Church which is his body, the fulnes of him that filleth all in all things. <hi>Ephe. 4.4.5.6.</hi> 1 <hi>Cor. 12, 13. and 10,</hi> 1, <hi>2. with Exod. 12, 37.</hi> 1 <hi>Pet. 3.20.21. with Gen.</hi> 7.1. <hi>Gal. 3.8.27.28.29.</hi> 1 <hi>Tim. 2.5. Joh. 10.16. Act. 2.38.39. Psal. 100.3.5. Ephe.</hi> 1.<hi>22.23. &amp; 2.19-22. &amp; 5.23, 25.26.27.32.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <head>VII.</head>
+               <p>Because els the grace of God to his people, is now synce Christ his coming
+<pb n="15" facs="tcp:20074:8"/> in the flesh lessened and straitned more then it was before; the comfort and confirmation of the faithfull for them<g ref="char:EOLhyphen"/>selves and their children is not now so great and so fully ratified by Christ, as formerly it was; we are not now so cō<g ref="char:EOLhyphen"/>pleet &amp; throughly furnished in Christ, as they aforetime were; neither have the Scriptures given assurance of the recal<g ref="char:EOLhyphen"/>ling of the Iewes, nor the Apostles suffi<g ref="char:EOLhyphen"/>ciently aunswered such as vrged cir<g ref="char:EOLhyphen"/>cumcision vpon the Gentiles, &amp;c. Which things to affirme or admit, is highly to derogate from the grace of God, the fulnesse of Christ and his Gos<g ref="char:EOLhyphen"/>pell, the comfort of Christians, the sure hope of the ingraffing agayne of the Iewes, the faithfulnes of the A<g ref="char:EOLhyphen"/>POSTLES and sufficiency of their doctrine recorded in the Scriptures. And so is contrarie to that which is written, <hi>Col. 2.8-12. Rom. 4.11-25. &amp; 11 11-36. &amp; 15.4. Gē. 7.1. with 1 Pet. 3.18-22 1 Cor. 1.16. &amp; 10.1-4. Luk. 19.9. Esa. 49.6. Act. 15.1-31: &amp; 16.15.33. and 26.6.7.22.23. Gal. 1.6-9. &amp; 3.8-29. Ephe. 2.18.19. Heb. 13.8. Rev. 13.8. &amp; 14.6. &amp; 21.3.9.10.11.12. &amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="16" facs="tcp:20074:9"/>
+            <head>
+               <hi>The second point. 2.</hi> That Baptisme received in the aposta<g ref="char:EOLhyphen"/>tical Churches of Christians, as of Rome and the like, is not to be renounced and a new to be repeated againe.</head>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>BEcause there is neither precept nor exāple nor other ground in all the Scriptures, either in the Old or New Testament, for such renouncing, repea<g ref="char:EOLhyphen"/>ting, new requiring or admitting ther<g ref="char:EOLhyphen"/>of. And therefore such perswasions and new baptismes are not from hea<g ref="char:EOLhyphen"/>ven, but of men. Contrary to the ba<g ref="char:EOLhyphen"/>ptisme of Iohn and the Apostles, which was from the Lord. <hi>Mat. 21.25. &amp; 28.18.19.20. Ioh. 1.25-33. with Act. 15.24. Gal. 5.7.8.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>Because there is one Baptisme, as there was one Circumcision. And circumcisiō being once received in the apostasie of Israell, was not repeated a<g ref="char:EOLhyphen"/>gaine at their returning to the Lord &amp; leaving of their idolatrous wayes to serve him according to his word: but
+<pb n="17" facs="tcp:20074:9"/> they that were so circūcised, were (with<g ref="char:EOLhyphen"/>out any new circumcision of the flesh) accepted at Ierusalem and admitted to the Passeover, of which none might eat that was vncircimcised. In like ma<g ref="char:EOLhyphen"/>ner also, Baptisme being once received in the apostatical Churches of Christi<g ref="char:EOLhyphen"/>ans, is not to be repeated agayne when any so baptized returne vnto the Lord and forsake their idolatries, submitting themselves to the truth of the Gospel: but they are (without any new bapti<g ref="char:EOLhyphen"/>sing with water) to be received of the Churches of Christ and admitted to the Lords supper, whereof none may eat being vnbaptized. For these exam<g ref="char:EOLhyphen"/>ples of Israel, as all other things in the Scriptures written aforetyme, are afore<g ref="char:EOLhyphen"/>written for our instruction &amp; comfort. <hi>Ephes. 4.5. with Gen. 17.10.11.12.13. Exod. 12.48.49. 2 Chron. 30. chap. with Rom. 15.4.22.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>III.</head>
+               <p>Because the covenant of Gods grace in Christ is an everlasting covenant: in<g ref="char:EOLhyphen"/>to which it pleased God to take vs with Abraham our father, when he made
+<pb n="18" facs="tcp:20074:10"/> that covenant with him and his seede for ever. And as the Lord himself, who knoweth his workes from the begin<g ref="char:EOLhyphen"/>ning, hath regard vnto it in his mer<g ref="char:EOLhyphen"/>cifull dealing concerning his people, even when they are as yet in apostatical Churches; so ought we also our selves carefully to have respect therevnto, in the consideration of baptisme thus received, as in all other things, accor<g ref="char:EOLhyphen"/>ding to the word of God, &amp; manifold occasiōs ministred frō the Lord. <hi>Gen.</hi> 17.7. <hi>Gal. 3.8.29. Heb. 13.8.20. with Deut. 4.30.31. and 29.10-15. and 30. chap. Rom. 11.15.16.28.29. 2 Chron. 15.3.4. and 30.6.7.8.9. Ezech. 16. chap. Col. 2.10.11.12.13. Rev. 18.4.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>IIII.</head>
+               <p>Because Christ dyed to sinne once, and being raysed from the dead, dyeth no more, but liveth to God. And we areburyed with him by baptisme into his death, to be grafted with him also to the similitude of his resurrection. Wherefore all that are once baptized into his name, ought still to reteyne it for continuall vse and comfort, and
+<pb n="19" facs="tcp:20074:10"/> not agayne to repeat it, any more then there is repetition of Christs death and sacrifice once offered to take away sinne. <hi>Rom. 6.8.9.10.11. with ver. 3.4.5. and Act. 13.34. Heb. 7.27. &amp; 9.25-29. and 10.10-14. 1 Pet. 3.18. Rev.</hi> 1.<hi>18. with Mat. 28.19.20. Act.</hi> 2.<hi>38.39.41.42. and 10.48.</hi> 1 <hi>Cor.</hi> 1.13. <hi>and 6.</hi>11 <hi>and 12.13. Gal. 3.27.28.29.</hi> 1 <hi>Pet. 3.21.22. Rev.</hi> 1.<hi>5.6.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>V</head>
+               <p>Because the Church of Rome was espoused to Christ in the covenant of grace by the Gospell of salvation, ha<g ref="char:EOLhyphen"/>ving Baptisme with the rest of Christs ordinances, in the Apostles dayes: and hath ever synce reteyned it with other grounds of Christian religiō, notwith<g ref="char:EOLhyphen"/>standing all her adulteries &amp; apostasie whereinto she is fallen. As may be seen both in that Church it self, &amp; all other Churches which are the daughters thereof in their constitution. And here<g ref="char:EOLhyphen"/>vnto, in all cases and questions of this nature, due respect is alway to be had: as may appeare by these Scriptures, <hi>Rom. 1.7. and 6.3.4. with Rev. 17. chap. Ezech. 16.44. Hos. 2. chap. 2 Chron. 30
+<pb n="20" facs="tcp:20074:11"/> 6.7.8.9. with 15.3.4. Lev. 26.14.-45. Deut. 4.25-31. and 29.10-15. and 30. chap. with Rom. 11.15.16. Heb 7.9.10.</hi>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <head>VI</head>
+               <p>Because God hath his people in the Romish Babylon; and when he cal<g ref="char:EOLhyphen"/>leth them out from thence, doth not enjoyne them to leave whatsoever is there had, but requireth of them that they have no communion with her sinnes;<note place="margin">
+                     <hi>Hos.</hi> 2.2.</note> but (as the Prophet teacheth) plead with their mother, that she take a<g ref="char:EOLhyphen"/>way her fornicatiōs out of her sight, &amp; her adulteries frō between her breasts. Now Baptisme is not of her adulteries, but of Christs ordinances; it is not a threshold or post which she hath brought into the Temple of God, but was set therin of old by the Lord him<g ref="char:EOLhyphen"/>self. Neither may we plead with her to take it away, but that she put away the fornications and corruptions that are of her owne addition. Which are the very things that cause the abomi<g ref="char:EOLhyphen"/>nation of her estate, and which we are bound to leave and put away, and not
+<pb n="21" facs="tcp:20074:11"/> all whatsoever is had in such apostati<g ref="char:EOLhyphen"/>call Churches. <hi>Rev. 18.4. Hos. 2.2. and</hi> 4.<hi>15. Amos 5.4.5.6.14.15. E<g ref="char:EOLhyphen"/>zech. 43.7.8.9. 2 Thess. 2.3-8. Rev.</hi> 11. <hi>and</hi> 14. <hi>chap. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <head>VII.</head>
+               <p>Because els by such like reasons as the baptisme is renounced which is there received, men might also vrge (as some have done) not to reteyne vrge or regard as we should, the articles of faith, the learning of the scripture, or the translations thereof, had and ac<g ref="char:EOLhyphen"/>knowledged in those Churches. And likewise might perswade to the disso<g ref="char:EOLhyphen"/>lution of such mariages as have bene had by their Ministerie: with other as strange cōsequences that by like maner of reasoning would be inferred there<g ref="char:EOLhyphen"/>vpon. Which to admit of, were con<g ref="char:EOLhyphen"/>trarie to <hi>Deut. 5.</hi>32.<hi>33. and 31.9-13. Prov. 4.25.26.27. and 23.23. 2 Chron. 29. and 30. chap. Esa. 8.19.20. and 34.16. Luk. 16.29. Ioh. 5.39. Act. 13.15. and 15.21. and</hi> 17.<hi>2.3.</hi>11. <hi>Rom.</hi> 15.<hi>4. and 16.</hi>17. 1 <hi>Cor. 4.6.</hi> 1 <hi>Thes. 5.21. 2 Tim. 3.14.15.16.17. Heb.</hi> 13.<hi>4.9. Rev.</hi> 1.<hi>3. 2 Pet. 3.17.18.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="22" facs="tcp:20074:12"/>
+            <head>The Conclusion.</head>
+            <p>To conclude, let the Reader con<g ref="char:EOLhyphen"/>cerning the Anabaptists, in the two points aforesaid, observe also these things: First, how in the one they adde to the word of God, and in the other take from it: They adde, in their re<g ref="char:EOLhyphen"/>peating or new receiving of Baptisme, which God hath not appointed to be done; And they take away, in their de<g ref="char:EOLhyphen"/>nying of Baptisme to children to whō God hath ordeyned the seale of his co<g ref="char:EOLhyphen"/>venant to be given, as before hath bene shewed. Both which the Lord hath often &amp; straitly forbidden, <hi>Deut. 4.2. and 12.32. Iosh.</hi> 1.<hi>7. Prov. 30.6. Gal.</hi> 1.<hi>6-9. Rev. 22.18.19.</hi>
+            </p>
+            <p>Secondly, how by their opinions &amp; practise they bring themselves to be in the estate of persons vnbaptized: in as much as the former baptisme which they had received, is by them renoun<g ref="char:EOLhyphen"/>ced altogether; &amp; their latter washing of themselves is not Baptisme appro<g ref="char:EOLhyphen"/>ved of God in his word, but a vayne observation of their own, taken vp by the will and invention of man. <hi>Mar. 7.4.7. with Exod. 20.4-7.</hi>
+            </p>
+            <pb n="23" facs="tcp:20074:12"/>
+            <p>Thirdly, how by excluding the chil<g ref="char:EOLhyphen"/>dren of beleevers out of the covenant of God, &amp; separating those whō God hath ioyned together therin, they shew their owne want of faith in Gods pro<g ref="char:EOLhyphen"/>mise, and put themselves from vnder Gods covenant, which joyneth the children with the parents in the same covenant of grace; and is made &amp; con<g ref="char:EOLhyphen"/>firmed in Christ, to all his people, both Iewes and Gentiles. <hi>Gen. 17, 7, Act. 2, 39, and 3, 25. and 16, 31. Gal. 3. chap. Ephes. 2, chap. &amp; 3, 6. with Mar. 10.9.</hi>
+            </p>
+            <p>THus are they injurious to God and his word; to Christ and his Church; to all nations and families of the earth, whether Iewes or Gen<g ref="char:EOLhyphen"/>tiles; and in speciall to them<g ref="char:EOLhyphen"/>selves and their children, whom they make together with themselves to be as heathens in the world, aliants from the cōmune-wealth of Israel, &amp; straun<g ref="char:EOLhyphen"/>gers from the covenaunts of promise: not onely putting from them the grace of God &amp; blessing of Abraham which is come vpon the Gentiles; but also making them subiect to the wrath of God and curse of the Law, which sei<g ref="char:EOLhyphen"/>seth and abideth vpon all that are not
+<pb n="24" facs="tcp:20074:13"/> vnder the promise &amp; covenant of God, which Christ hath confirmed by his death, for salvation to all that are his, whether old or young. The Lord reclayme them, if it be his will: &amp; keep all his people, that they be not by any meanes removed from the truth of the Gospell, but may stand confirmed &amp; cōforted therein by the grace of Christ, vnto the end. <hi>Amen.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <bibl>2 Ioh. v. 8-11.</bibl>
+                  <p>
+                     <hi>Looke to yourselves, that we lose not the things which we have done, but that we may receive a full reward.</hi>
+                  </p>
+                  <p>
+                     <hi>Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Sonne.</hi>
+                  </p>
+                  <p>
+                     <hi>Jf any come vnto you, and bring not this doctrine, receive him not to house, nor say vnto him, God speed. For he that sayth vnto him, God speed, communicateth with his evill deeds.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <bibl>Rev. 3.11.</bibl>
+                  <p>
+                     <hi>Behold, I come quickly: hold-fast that which thou hast, that none take thy crowne.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <pb facs="tcp:20074:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
